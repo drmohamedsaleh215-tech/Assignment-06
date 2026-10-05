@@ -6,3 +6,7 @@ PROJECT DESCRIPTION
 This project features a dynamic portfolio dashboard built entirely in R using the Shiny web framework. It fetches real-time and historical financial data via the quantmod package and creates rich, interactive visualizations using ggplot2 and tidyquant.
 
 Users can select a stock symbol, adjust date ranges, and toggle technical indicators such as Moving Averages, RSI, and MACD. Additionally, the application automatically implements moving average crossover trading strategies, identifying and annotating "Buy" and "Sell" signals directly onto the candlestick chart.
+GITHUB REPOSITORY
+The complete source code, including the application script and project files, can be reviewed at the following repository:
+
+https://github.com/drmohamedsaleh215-tech/Assignment-06/tree/main
