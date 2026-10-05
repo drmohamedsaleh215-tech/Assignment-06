@@ -1,0 +1,8 @@
+Student Name: Mohamed Hassan
+Assignment Title: Technical Analysis using R, Visualization Phase
+ Course Code: BDA400 
+
+PROJECT DESCRIPTION
+This project features a dynamic portfolio dashboard built entirely in R using the Shiny web framework. It fetches real-time and historical financial data via the quantmod package and creates rich, interactive visualizations using ggplot2 and tidyquant.
+
+Users can select a stock symbol, adjust date ranges, and toggle technical indicators such as Moving Averages, RSI, and MACD. Additionally, the application automatically implements moving average crossover trading strategies, identifying and annotating "Buy" and "Sell" signals directly onto the candlestick chart.
